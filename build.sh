@@ -1,3 +1,5 @@
 #!/bin/bash
-echo "Hello "$1
+echo "Hello Chetan"
 echo "Welcome to the Capegemini"
+df -h
+
